@@ -9,7 +9,7 @@ I'm on a thrilling journey to dive deep into the realm of programming languages 
 - **PHP:** Empowering dynamic web content.
 - **Python:** Unleashing versatile scripting magic.
 - **SQL:** Mastering data manipulation like a pro.
-- **JavaScript:** Adding interactivity and dynamism to web projects.
+- **Java:** Versatile, object-oriented programming language known for portability, performance, and reliability in building enterprise, mobile, and web applications.
 
 ## How to Reach Me:
 ✉️ **Email:** odiliolopes16@gmail.com
